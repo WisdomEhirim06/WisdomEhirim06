@@ -1,6 +1,6 @@
 ## Hi, I’m @WisdomEhirim06
 - 📍 I’m interested in **Software Development** and using it to **solve world problems 🌐**
-- 📍 I’m currently learning **Web develipment**
+- 📍 I’m currently learning **Web development**
  
 - 📍 I’m looking to collaborate on projects concerning the world. I'm interested in that.
   
