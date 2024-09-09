@@ -1,4 +1,4 @@
-# Wisdom Ehirim
+# Wisdom Ehirim 💫
 
 **`TechScribe (Developer/Technical writer/Tech Blogger)`**
 
@@ -49,7 +49,7 @@ With **tech blogging** I share my journey and insights on [Code Journals](coding
 
 
 ---
-### Connect
+### Connect 📧
 
 **- [codingwithwisdom](codingwithwisdom.wordpress.com)**
 
