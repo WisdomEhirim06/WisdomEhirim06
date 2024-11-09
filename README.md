@@ -1,6 +1,6 @@
 # Wisdom Ehirim 💫
 
-**`TechScribe (Developer/Technical writer/Tech Blogger)`**
+**`Code Journalist (Developer/Tech Blogger)`**
 
 I'm a **Backend developer**, with a growing interest  in **mobile development** and a passion for solving real-world problems through code. My projects are born from personal drive and coursework, always aimed at creating practical, scalable solutions.
 With **tech blogging** I share my journey and insights on [Code Journals](codingwithwisdom.wordpress.com), where I write about everything from personal experiences in tech to in-depth technical tutorials, contributing to the community and inspiring others along the way.
