@@ -2,7 +2,7 @@
 
 **` Software Engineer`**
 
-I'm a ** Fullstack Developer**, with a growing interest  in **mobile development** and a passion for solving real-world problems through code. 
+I'm a **Fullstack Developer**, with a growing interest  in **mobile development** and a passion for solving real-world problems through code. 
 
 I'm drawn to problems that affect the user majorly - fintech, edtech, and even simple projects, but majorly how to optimize for the users.
 
